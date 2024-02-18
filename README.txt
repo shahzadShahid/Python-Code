@@ -13,7 +13,7 @@ This is a simple Python backend application built with Flask that allows users t
 
 ## Installation
 1. Clone the repository:
- 	https://github.com/your-username/event-management.git
+ 	https://github.com/shahzadShahid/Python-Code.git
 2. Navigate to the project directory:
 	cd event-management
 3. Install dependencies:
